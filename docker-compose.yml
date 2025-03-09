@@ -1,7 +1,7 @@
 services:
   uwu-dev:
     build: .
-    volume:
+    volumes:
       - .:/app
     network_mode: "host"
     stdin_open: true
