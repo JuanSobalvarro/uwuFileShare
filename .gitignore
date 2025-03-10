@@ -21,6 +21,15 @@ env/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# CMake
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+CMakeTmp/
+CMakeLists.txt.user
+Makefile
+cmake_install.cmake
+
 # C++
 *.o
 *.obj

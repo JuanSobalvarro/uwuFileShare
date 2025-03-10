@@ -1,5 +1,5 @@
 services:
-  uwu-dev:
+  dev:
     build: .
     volumes:
       - .:/app
